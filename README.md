@@ -9,7 +9,7 @@ Source: [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinanc
 
 ## Dataset
 - 162,421 consumer financial complaints (CFPB)
-- 5 categories: credit_card, credit_reporting, debt_collection, mortgages_and_loans, retail_banking
+- 5 categories: credit card, credit reporting, debt collection, mortgages and loans, retail banking
 - Class imbalance handled via undersampling
 
 ## Tech Stack
